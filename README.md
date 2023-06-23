@@ -1,2 +1,1 @@
-# Autoexec
-V1
+# Shua's Config
